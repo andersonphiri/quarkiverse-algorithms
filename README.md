@@ -1,2 +1,2 @@
 # quarkiverse-algorithms
-java algorithms as a quarkus extensions
+java algorithms as quarkus extension(s)
